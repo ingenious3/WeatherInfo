@@ -1,0 +1,5 @@
+<resources>
+
+    <!-- Replace fragment detail view with layout that takes advantage of more available width.-->
+    <item type="layout" name="fragment_detail">@layout/fragment_detail_wide</item>
+</resources>
